@@ -1,6 +1,10 @@
-.idea/
 __pycache__/
 *.pyc
+.idea/
 .venv/
 venv/
 .env
+~$*
+D:\workspaces\zhu\.gitignore
+/SS-Screen_GUI_AllCode_V5_4_composition_screen/
+
